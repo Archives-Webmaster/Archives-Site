@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+html, body {
+  overflow-x: hidden;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'DM Sans Bold';
+  font-weight: normal;
+}
+
+p, li {
+  font-family: 'DM Sans';
+}
+
+ul, ol, li {
+  list-style-type: disc !important;
+}
